@@ -1,7 +1,3 @@
-# variable "region" {
-#   description = "The AWS region to create the resources in."
-#   type        = string
-# }
 
 variable "vpc_cidr_block" {
   description = "The CIDR block for the VPC."
